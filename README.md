@@ -1,1 +1,2 @@
 # Fake-News-Detection-Machine-Learning
+This project implements a machine learning model to classify news articles as real or fake based on preprocessed numerical features like word count, unique word count, and average word length. Multiple machine learning algorithms are evaluated to achieve high accuracy and reliability. The project highlights the importance of feature engineering in classification tasks and includes detailed model evaluation with metrics such as accuracy and F1-score.
